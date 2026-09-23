@@ -24,6 +24,8 @@ This project explores how regional conservation interventions (e.g., harvest mor
 └─ README.md
 ```
 
+The structure can also be viewed visually at this link: https://docs.google.com/presentation/d/1UjhgXnqCptuxABpWU7--vbBmPAYiVsYy9PZ6UnObFN0/edit?usp=sharing
+
 ## 3. Getting started
 
 Full data are provided via the external archive link above. This keeps the repo lightweight and reproducible while meeting FAIR/archival expectations.
